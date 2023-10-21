@@ -1,11 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
+import logo from "../../public/logo.svg";
 
 export default function Navbar() {
   return (
     <div className="flex justify-between">
-        <div className="mt-5">
-            <Image src="/images/logo.svg" height={32} width={160} alt="easybank logo" />
+        <div className="mt-5 flex gap-2 justify-center items-center text-2xl font-semibold">
+            <Image src={logo} height={52} width={52} alt="easybank logo" />
+            <p>uPay</p>
         </div>
         <div className=" ">
         <Link href="/home">

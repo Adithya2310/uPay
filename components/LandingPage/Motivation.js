@@ -3,27 +3,27 @@ import React from 'react'
 const motivationItems = [
     {
       iconPath: '/icons/icon-online.svg',
-      title: 'Online Banking',
+      title: 'Fast and reliable',
       subtitle:
-        'Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world.',
+        'Make payment fast and reliable using DeepBook and sui blockchain, ',
     },
     {
       iconPath: '/icons/icon-budgeting.svg',
-      title: 'Simple Budgeting',
+      title: 'Simple and Fast onboarding',
       subtitle:
-        'See exactly where your money goes each month. Receive notifications when you’re close to hitting your limits.',
+        'It is a Fast and easy onboarding solution to web 2 users',
     },
     {
       iconPath: '/icons/icon-onboarding.svg',
-      title: 'Fast Onboarding',
+      title: 'QRcode based ',
       subtitle:
-        'We don’t do branches. Open your account in minutes online and start taking control of your finances right away.',
+        'QRcode based payments and any token payments ',
     },
     {
       iconPath: '/icons/icon-api.svg',
-      title: 'Open API',
+      title: 'Deep Book',
       subtitle:
-        'Manage your savings, investments, pension, and much more from one account. Tracking your money has never been easier.',
+        'Using Deep Book platform based on sui to perform any kinds of orders and swaps',
     },
   ];
 
