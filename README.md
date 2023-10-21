@@ -40,7 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1. **Access Customer Side Application**: Open the following link in your web browser: [Customer Payment Application](https://upay-customer-sui.vercel.app/).
 
-2. **Access Merchant Side Application**: Open the following link in your web browser: [Merchant Payment Application](https://upay-merchant-sui.vercel.app/).
+2. **Access Merchant Side Application**: Open the following link in your web browser: [Merchant Payment Application](https://ce85-103-16-70-107.ngrok-free.app/email).
 
 3. **Connect Your SUI Wallet**: To interact with the application on the SUI Testnet, you'll need to connect your SUI wallet. Make sure you have SUI wallet installed and set up in your browser.
 
